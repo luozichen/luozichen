@@ -20,10 +20,11 @@ I am a 4th-year Physics undergraduate at Tsinghua University studying nuclear ph
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=luozichen&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luozichen&layout=compact&theme=tokyonight)
+![GitHub Stats](./github-stats.svg)
+![Top Languages](./top-langs.svg)
 
 ---
 
 📫 **More about me**:
 * [Personal Website](https://luozichen.github.io)
+* [Neon Connect Platform](https://luozichen.pythonanywhere.com)
