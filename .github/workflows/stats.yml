@@ -1,14 +1,34 @@
-name: GitHub README Stats
+name: Generate Stats Images
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight
-  workflow_dispatch: # Allows you to run it manually
+    - cron: '0 0 * * *' 
+  workflow_dispatch:
 jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: anuraghazra/github-readme-stats@master # Official action
+      
+      - name: Generate Language Stats
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_TOKEN }}
-          username: luozichen
+          user: luozichen
+          template: classic
+          base: ""
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          output_action: commit
+          committer_gist: ${{ secrets.GH_TOKEN }}
+          filename: top-langs.svg
+
+      - name: Generate General Stats
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          user: luozichen
+          base: header, activity, community, repositories, metadata
+          output_action: commit
+          committer_gist: ${{ secrets.GH_TOKEN }}
+          filename: github-stats.svg
