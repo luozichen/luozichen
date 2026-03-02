@@ -8,11 +8,11 @@ I am a 4th-year Physics undergraduate at Tsinghua University studying nuclear ph
 * **Academic Affiliation**: 4th-year Undergraduate, Department of Physics, Tsinghua University.
 * **Thesis Project**: *Development of Polarization Detectors in Deuteron Isovector Polarization Experiments*.
 * **Advisor**: Prof. Xiao Zhigang.
-* **Technical Skills**: Geant4, SolidWorks, Altium Designer.
+* **Technical Skills**: Geant4, SolidWorks, Altium Designer, Python, C++.
 
 ### 💻 Tech & AI Projects
-* **[NeonBench](https://github.com/luozichen/NeonBench/)**: A research repository tracking ~260 experiments in parameter efficiency and novel Transformer architectures at the 3M to 26M scale.
-* **[Neon Connect](https://luozichen.pythonanywhere.com)**: A custom web-based visualizer for NeonModels.
+* **[NeonBench](https://github.com/luozichen/NeonBench/)**: A systematic study of numerous transformer architecture ideas. Includes logs from nearly 300 experiments of models ranging from 3M to 26M parameters.
+* **[Neon Connect](https://luozichen.pythonanywhere.com)**: A custom web-based visualizer for my models. (Attention sinks, dimensional collapse, etc)
     * [Source Code](https://github.com/luozichen/NeonConnect/)
 * **[HuggingFace](https://huggingface.co/luozhangzichen)**: A repository for larger model weights and specific architectural variants.
 * **Technical Skills**: PyTorch, Python (Flask), LLM API integration.
