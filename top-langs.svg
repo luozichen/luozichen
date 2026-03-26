@@ -21,13 +21,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="417.14822017041234" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="417.14822017041234" y="0" width="28.92713930865224" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="446.0753594790646" y="0" width="13.313842789141901" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="459.38920226820653" y="0" width="0.23557877861235638" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.6247810468189" y="0" width="0.19017011548852536" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="459.8149511623074" y="0" width="0.13759166345040524" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="459.9525428257578" y="0" width="0.04745717424219933" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="429.1696642727101" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="429.1696642727101" y="0" width="20.112114364977685" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="449.2817786376878" y="0" width="9.256688881519105" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="458.5384675192069" y="0" width="1.2006547487171302" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.739122267924" y="0" width="0.1322191963296642" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="459.8713414642537" y="0" width="0.09566308100692042" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="459.96700454526064" y="0" width="0.03299545473935964" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -39,7 +39,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>90.68%</div>
+                                <div>93.3%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -50,7 +50,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>2.89%</div>
+                                <div>2.01%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -61,7 +61,7 @@
                                 CMake
                             </div>
                             <small>
-                                <div>0.04%</div>
+                                <div>0.03%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -85,7 +85,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>6.29%</div>
+                                <div>4.37%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -96,7 +96,7 @@
                                 Shell
                             </div>
                             <small>
-                                <div>0.05%</div>
+                                <div>0.26%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -107,7 +107,7 @@
                                 Makefile
                             </div>
                             <small>
-                                <div>0.03%</div>
+                                <div>0.02%</div>
                             </small>
                         </div>
                     </section>
