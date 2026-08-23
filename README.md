@@ -1,30 +1,30 @@
-# Hi there, I'm Zichen Luo (罗子辰) 👋
+# Hi. I'm Zichen (罗子辰) 👋
 
-I am a 4th-year Physics undergraduate at Tsinghua University studying nuclear physics. Currently working on detectors for my thesis, though I dabble in machine learning from time to time. And I like long-distance running too.
+I am a postgrad at Tsinghua studying nuclear physics. I like physics, machine learning, and vibe coding.
 
 ---
 
-### 🔬 Physics & Research
-* **Academic Affiliation**: 4th-year Undergraduate, Department of Physics, Tsinghua University.
+### Physics
+* **Academic Affiliation**: Previously undergraduate at Department of Physics, Tsinghua University.
 * **Thesis Project**: *Development of Polarization Detectors in Deuteron Isovector Polarization Experiments*.
 * **Advisor**: Prof. Xiao Zhigang.
 * **Technical Skills**: Geant4, SolidWorks, Altium Designer, Python, C++.
 
-### 💻 Tech & AI Projects
-* **[NeonBench](https://github.com/luozichen/NeonBench/)**: A systematic study of numerous transformer architecture ideas. Includes logs from nearly 300 experiments of models ranging from 3M to 26M parameters.
-* **[Neon Connect](https://luozichen.pythonanywhere.com)**: A custom web-based visualizer for my models. (Attention sinks, dimensional collapse, etc)
+### AI Projects and Other Stuff
+* **[NeonBench](https://github.com/luozichen/NeonBench/)**: A study of transformer architectures. (around 300 experiments of 3M ~ 26M parameter language models.)
+* **[Neon Connect](https://luozichen.pythonanywhere.com)**: Web-based visualizer for my models. (Attention sinks, dimensional collapse, etc). Not really updated anymore.
     * [Source Code](https://github.com/luozichen/NeonConnect/)
-* **[HuggingFace](https://huggingface.co/luozhangzichen)**: A repository for larger model weights and specific architectural variants.
+* **[HuggingFace](https://huggingface.co/luozhangzichen)**: A repository for some selected model weights and specific architectures.
 * **Technical Skills**: PyTorch, Python (Flask), LLM API integration.
 
 ---
 
-### 📊 GitHub Stats
+### Stats and Activity
 ![GitHub Stats](./github-stats.svg)
 ![Top Languages](./top-langs.svg)
 
 ---
 
 📫 **More about me**:
-* [Personal Website](https://luozichen.github.io)
-* [Neon Connect Platform](https://luozichen.pythonanywhere.com)
+* [Website](https://luozichen.github.io)
+* [Neon Connect Platform (AI side project)](https://luozichen.pythonanywhere.com)
