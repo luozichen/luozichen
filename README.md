@@ -11,6 +11,7 @@ I am a postgrad at Tsinghua studying nuclear physics. I like physics, machine le
 * **Technical Skills**: Geant4, SolidWorks, Altium Designer, Python, C++.
 
 ### AI Projects and Other Stuff
+* **Side projects to familiarize myself with git, github, huggingface, etc
 * **[NeonBench](https://github.com/luozichen/NeonBench/)**: A study of transformer architectures. (around 300 experiments of 3M ~ 26M parameter language models.)
 * **[Neon Connect](https://luozichen.pythonanywhere.com)**: Web-based visualizer for my models. (Attention sinks, dimensional collapse, etc). Not really updated anymore.
     * [Source Code](https://github.com/luozichen/NeonConnect/)
