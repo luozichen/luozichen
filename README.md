@@ -7,7 +7,7 @@ I'm Zichen (罗子辰). I like physics.
 * Nuclear Physics, Scintillator detectors, correlation functions...
 * Geant4, SolidWorks, Altium Designer, Python, C++.
 
-### AI Projects and Other Stuff
+### Side Projects, ML and Other Stuff
 * Side projects to familiarize myself with git, github, huggingface, transformer architectures in general etc
 * [NeonBench](https://github.com/luozichen/NeonBench/). Making/testing random transformer architectures. (around 300 experiments of 3M ~ 26M parameter language models.)
 * PyTorch, Python (Flask), LLM API integration.
